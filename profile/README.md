@@ -1,3 +1,5 @@
-<div style="font-family: 'Arial', sans-serif; text-align: center;">
-  <h1 style="color: #4CAF50; font-size: 36px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">Hello</h1>
+<div style="font-family: 'Arial', sans-serif; text-align: center; background-color: #f7f7f7; padding: 20px;">
+    <h1 style="margin-bottom: 10px;">Welcome to the</h1>
+    <h1 style="font-size: 36px; margin-top: 0;">Lean <span style="color: #4ae94f;">Sales</span> repository</h1>
+    <p style="font-style: italic; color: #666;">To Do - Alguém coloca uma descrição ai</p>
 </div>
